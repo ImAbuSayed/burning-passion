@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-passion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Burning Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-passion/) |
+| **Get License** | [License this song: Burning Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-passion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your eyes catch mine
+> A slow burn starting down a whiskey line
+> It’s a dangerous game we’re playing tonight
+> But I’m ready to lose in the fading light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
