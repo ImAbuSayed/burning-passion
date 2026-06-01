@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Burning Passion
+
+This log tracks the cryptographic history and versioning for the song **Burning Passion** (burning-passion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T01:49:30.335748 | `v1` | `403a4d50c2377b6b55e674d62c07d430866b07eacd8043b5a23e9d3f1307b868` | `f20edb8e5ade64ba7c4c90bf8b0c3fa4b97cf19e3731b9613d142cae590392b7` | `2026-06-02_burning-passion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

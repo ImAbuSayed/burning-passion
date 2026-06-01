@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-passion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Burning Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-passion/) |
+| **Get License** | [Obtain a Music License for Burning Passion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-passion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `403a4d50c2377b6b55e674d62c07d430866b07eacd8043b5a23e9d3f1307b868` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
